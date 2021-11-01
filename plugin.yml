@@ -1,0 +1,6 @@
+name: Jobs
+author: Arad119
+version: 1.0.0
+main: fr.arad119.jobs.AJobs
+commands:
+  metier:
